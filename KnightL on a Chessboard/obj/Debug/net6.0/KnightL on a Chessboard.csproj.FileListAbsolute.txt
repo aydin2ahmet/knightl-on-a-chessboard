@@ -1,0 +1,15 @@
+C:\Users\acatg\source\repos\Questions\KnightL on a Chessboard\KnightL on a Chessboard\bin\Debug\net6.0\KnightL on a Chessboard.exe
+C:\Users\acatg\source\repos\Questions\KnightL on a Chessboard\KnightL on a Chessboard\bin\Debug\net6.0\KnightL on a Chessboard.deps.json
+C:\Users\acatg\source\repos\Questions\KnightL on a Chessboard\KnightL on a Chessboard\bin\Debug\net6.0\KnightL on a Chessboard.runtimeconfig.json
+C:\Users\acatg\source\repos\Questions\KnightL on a Chessboard\KnightL on a Chessboard\bin\Debug\net6.0\KnightL on a Chessboard.dll
+C:\Users\acatg\source\repos\Questions\KnightL on a Chessboard\KnightL on a Chessboard\bin\Debug\net6.0\KnightL on a Chessboard.pdb
+C:\Users\acatg\source\repos\Questions\KnightL on a Chessboard\KnightL on a Chessboard\obj\Debug\net6.0\KnightL on a Chessboard.csproj.AssemblyReference.cache
+C:\Users\acatg\source\repos\Questions\KnightL on a Chessboard\KnightL on a Chessboard\obj\Debug\net6.0\KnightL on a Chessboard.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acatg\source\repos\Questions\KnightL on a Chessboard\KnightL on a Chessboard\obj\Debug\net6.0\KnightL on a Chessboard.AssemblyInfoInputs.cache
+C:\Users\acatg\source\repos\Questions\KnightL on a Chessboard\KnightL on a Chessboard\obj\Debug\net6.0\KnightL on a Chessboard.AssemblyInfo.cs
+C:\Users\acatg\source\repos\Questions\KnightL on a Chessboard\KnightL on a Chessboard\obj\Debug\net6.0\KnightL on a Chessboard.csproj.CoreCompileInputs.cache
+C:\Users\acatg\source\repos\Questions\KnightL on a Chessboard\KnightL on a Chessboard\obj\Debug\net6.0\KnightL on a Chessboard.dll
+C:\Users\acatg\source\repos\Questions\KnightL on a Chessboard\KnightL on a Chessboard\obj\Debug\net6.0\refint\KnightL on a Chessboard.dll
+C:\Users\acatg\source\repos\Questions\KnightL on a Chessboard\KnightL on a Chessboard\obj\Debug\net6.0\KnightL on a Chessboard.pdb
+C:\Users\acatg\source\repos\Questions\KnightL on a Chessboard\KnightL on a Chessboard\obj\Debug\net6.0\KnightL on a Chessboard.genruntimeconfig.cache
+C:\Users\acatg\source\repos\Questions\KnightL on a Chessboard\KnightL on a Chessboard\obj\Debug\net6.0\ref\KnightL on a Chessboard.dll
